@@ -9,10 +9,9 @@ class Home extends Component{
                     with experience of data processing, software programming, ETL, analysis and visualization.
                 </p>
                 <p>My areas of interest include Data Science, Classical Machine Learning, Bayesian Machine Learning, Artificial Neural Networks.
-                    I'm constantly learning new algortihms and trying to implement it in my spare time.
+                    I'm passionate about learning and applying Data Science/Machine Learning to solve real world problems.
                 </p>
-                <p>I'm planning to use this platform to share my understanding of different concepts as blog posts, my goal is to learn 
-                    new techniques and share my knowledge with the community. 
+                <p>I'm planning to use this platform to share my understanding of different concepts as blog posts, my goal is to learn and share my knowledge with the community. 
                 </p>
                 <h2>Contact</h2>
                 <p>If you would like to get in touch with me, you can directly reach 
