@@ -4,7 +4,7 @@ class Home extends Component{
     render(){
         return(
             <div className="Bottomrightside">
-                <h1>Hello, Welcome! </h1>
+                <h1>Hi, Welcome! </h1>
                 <p>I'm an Data Analytics professional with more than 3 years of Industry experience. I have Master's in Engineering 
                     with experience of data processing, software programming, ETL, analysis and visualization.
                 </p>
